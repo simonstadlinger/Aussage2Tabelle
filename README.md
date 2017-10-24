@@ -1,6 +1,9 @@
 # Aussage2Tabelle
 Erstellt eine Latex-Tabelle aus einer Aussage
 
+## Ausführen
+Zum Ausführen einfach die Datei p2w.py mit python3 laufen.
+
 ## Eingabe
 Die Eingabe folgende Kriterien erfüllen:   
 - Erlaubte Zeichen: ~ + - > = ( ) a-z   
